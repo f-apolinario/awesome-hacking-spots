@@ -268,6 +268,14 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) |
 
+#### Croissant Gigante - Bairro Alto
+
+Webpage: https://www.facebook.com/croissantgigante.pt
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔  | [Travessa dos Fies, 59B 1200-187 - Bairro Alto, Lisboa](https://goo.gl/maps/VzdFbsqkUGm) |
+
 #### Esplanada do Torel
 
 > Wifi with a view!
